@@ -1,7 +1,7 @@
 #%% Ejercicio 115: Pig Latin
 # escribir un programa que lea una linea de texto del usuario
 # traducir al latin de los cerdos y mostrar el resultado
-# se puede suponer que el usuario solo contiene letras minusulas y espacios
+# se puede suponer que el usuario solo contiene letras minusulas y espacio
 import re, string
 from me_5 import pig_latin
 # se crea una funcion principal para ejecutar la funcion importada
