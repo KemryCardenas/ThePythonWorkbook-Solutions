@@ -1,6 +1,6 @@
 # escribe una funcion que calcule todos los divisores propios de un entero positivo
 # el entero será pasado a la función como unico parámetro
-# la funcion devolvera una lsita con todos los divisores propios como unico resultado
+# la funcion devolvera una lsita con todos los divisores propios como unico resultad
 from me_5 import divisores_propios
 # definimos la funcion principal que llama a la ubicada en el archivo de funciones
 def main():
