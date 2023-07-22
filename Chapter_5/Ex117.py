@@ -1,7 +1,7 @@
 #%% Ejercicio 117: Línea de mejor ajuste
 # leer una coleccion de puntos
 # escribir la coordenada x y y
-# permitir seguir introducciodo coordenadas hasta leer una linea en bllanco
+# permitir seguir introducciodo coordenadas hasta leer una linea en blanco
 # visualizar la formula de recta de mejor ajuste
 
 x=[]
