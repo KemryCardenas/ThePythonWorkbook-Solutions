@@ -4,7 +4,7 @@
 from statistics import mean
 # se importa el metodo mean de la biblioteca statistics
 n=input("Ingrese un numero ")
-# se da n como la variable independiente, se crea tambien la lista de valores
+# se da n como la variable independiente, se crea tambien la lista de valore
 valores=[]
 while n!=" " and n!='':
     # se crea un loop while que dejera de ingresar datos en el momento en que se de un espacion o un enter
