@@ -10,3 +10,4 @@ def main():
     # la candena ingresada por el usuario, es convertida directamente a minusculas a fin de podres ser mejor manejada
     traduccion=pig_latin(cadena)
     print(traduccion)
+main()
