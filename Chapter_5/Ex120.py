@@ -1,4 +1,4 @@
-#%% Ejercicio 120: ¿Está una lista ya ordenada?
+#%% Ejercicio 120: ¿Esta una lista ya ordenada?
 from me_5 import en_orden
 
 # variables independientes
