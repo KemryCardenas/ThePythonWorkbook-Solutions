@@ -1,6 +1,6 @@
 #%% Ejercicio 123: De infijo a postfijo
 # tokenizar la expresion matematica
-# usar el algoritmo descrito para pasar de la forma infija a la postfija
+# usar el algoritmo descrito para pasar de la forma infija a la postfij
 # implementar un codigo que tome expresion infija, devuelva la expresion postfija como unico resultado
 # finalmente  desmotrar que la expresion infija y postfija son equivalentes
 from pythonds.basic import Stack
